@@ -4,7 +4,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-faleiros/)](https://www.linkedin.com/in/natan-foleto-9bbb2b178/)
-[![Gmail Badge](https://img.shields.io/badge/-viniciusfaleiros26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juninn12346@gmail.com)](mailto:natanfoleto2015@gmail.com)
 
 ### Olá! 👋  Bem vindo ao meu perfil. #
 
