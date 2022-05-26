@@ -1,8 +1,5 @@
 ## Natan Foleto 🧑🏻‍
 
-
-
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-faleiros/)](https://www.linkedin.com/in/natan-foleto-9bbb2b178/)
 
 ### Olá! 👋  Bem vindo ao meu perfil. #
