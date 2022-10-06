@@ -23,7 +23,3 @@ Others Technologies: <p>
     <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/git.png" height="40px"/>&nbsp;
   </div>
  </center>
-   
-<br>
-  
-![Natan Foleto Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanfoleto&hide=html&layout=compact&show_icons=true&theme=tokyonight)
