@@ -12,7 +12,7 @@ My Technologies: <p>
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/typescript.svg" height="40px"/>&nbsp;
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/nodejs.svg" height="40px"/>&nbsp;
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/react.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/nextjs.png" height="40px"/>&nbsp;
+    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/nextjs.svg" height="40px"/>&nbsp;
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/php.png" height="40px"/>&nbsp;
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/html5.svg" height="40px"/>&nbsp;
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/css3.svg" height="40px"/>&nbsp;
