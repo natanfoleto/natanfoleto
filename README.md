@@ -22,7 +22,6 @@ My Technologies: <p>
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/npm.png" height="40px"/>&nbsp;
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/yarn.png" height="40px"/>&nbsp;
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/git.png" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/github.svg" height="40px"/>&nbsp;
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/gitlab.svg" height="40px"/>&nbsp;
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/Figma.svg" height="40px"/>&nbsp;
     <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/postgreesql.svg" height="40px"/>&nbsp;
