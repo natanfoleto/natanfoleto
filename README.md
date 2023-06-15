@@ -3,51 +3,39 @@
 <br>
 
 I love to program, I love to learn 💻 <p>
-
-<div style="display:flex; width: 100%;">
   
-  #### Programming Languages
-  <div style="display:flex; justify-content:space-around; width: 100%;">
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/javascript.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/typescript.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/php.png" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/java.svg" height="40px"/>&nbsp;
-  </div>
-  
-  #### Front-end
-  <div style="display:flex; justify-content:space-around; width: 100%;">
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/react.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/nextjs.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/html5.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/css3.svg" height="40px"/>&nbsp;
-  </div>
-  
-  #### Back-end
-  <div style="display:flex; justify-content:space-around; width: 100%;">
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/nodejs.svg" height="40px"/>&nbsp;
-  </div>
-  
-  #### Databases
-  <div style="display:flex; justify-content:space-around; width: 100%;">
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/postgreesql.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/mysql.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/mongodb.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/redis.svg" height="40px"/>&nbsp;
-  </div>
-  
-  #### DevOps
-  <div style="display:flex; justify-content:space-around; width: 100%;">
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/docker.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/linux.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/git.png" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/gitlab.svg" height="40px"/>&nbsp;
-  </div>
-  
-  #### Others
-  <div style="display:flex; justify-content:space-around; width: 100%;">
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/npm.png" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/yarn.png" height="40px"/>&nbsp;
-    <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/Figma.svg" height="40px"/>&nbsp;
-  </div>
+#### Programming Languages
+<div style="display:flex; justify-content:space-around; width: 100%;">
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/javascript.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/typescript.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/php.png" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/java.svg" height="40px"/>&nbsp;
 </div>
 
+#### Tools
+<div style="display:flex; justify-content:space-around; width: 100%;">
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/nodejs.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/react.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/nextjs.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/html5.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/css3.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/npm.png" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/yarn.png" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/Figma.svg" height="40px"/>&nbsp;
+</div>
+
+#### Databases
+<div style="display:flex; justify-content:space-around; width: 100%;">
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/postgreesql.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/mysql.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/mongodb.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/redis.svg" height="40px"/>&nbsp;
+</div>
+
+#### DevOps
+<div style="display:flex; justify-content:space-around; width: 100%;">
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/docker.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/linux.svg" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/git.png" height="40px"/>&nbsp;
+  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/gitlab.svg" height="40px"/>&nbsp;
+</div>
