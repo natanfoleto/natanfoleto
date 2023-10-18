@@ -39,7 +39,7 @@
 >>  <img src="https://raw.githubusercontent.com/natanfoleto/natanfoleto/81bead1016f85a6463569135bbfc80c05472052c/assets/docker.svg" height="40px"/>&nbsp;
 >>  <img src="https://raw.githubusercontent.com/natanfoleto/natanfoleto/81bead1016f85a6463569135bbfc80c05472052c/assets/linux.svg" height="40px"/>&nbsp;
 >>  <img src="https://raw.githubusercontent.com/natanfoleto/natanfoleto/main/assets/git.png" height="40px"/>&nbsp;
->>  <img src="https://raw.githubusercontent.com/natanfoleto/natanfoleto/main/assets/git.png" height="40px"/>&nbsp;
+>>  <img src="https://raw.githubusercontent.com/natanfoleto/natanfoleto/43a0601f050e4ecea3ac787c4d26dcf7edb47e5e/assets/gitlab.svg" height="40px"/>&nbsp;
 >></div>
 
 <br>
