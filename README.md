@@ -8,7 +8,7 @@
 >
 >>#### Programming Languages
 >><div style="display:flex; justify-content:space-around; width: 100%;">
->>  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/javascript.svg" height="40px"/>&nbsp;
+>>  <img src="https://raw.githubusercontent.com/natanfoleto/natanfoleto/73848425427ac00323854248830b67ee1bc3e439/assets/javascript.svg" height="40px"/>&nbsp;
 >>  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/typescript.svg" height="40px"/>&nbsp;
 >>  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/php.png" height="40px"/>&nbsp;
 >>  <img src="https://github.com/natanfoleto/natanfoleto/blob/main/assets/java.svg" height="40px"/>&nbsp;
